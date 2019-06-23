@@ -1,10 +1,13 @@
 # Teste_Dev
 
+
 ## Perguntas:
+
 
 **1°) Explique com suas palavras o que é domain driven design e sua importância na estratégia de desenvolvimento de software.**
 
 R: =>  Eu entendo que DDD é um padrão de modelagem de software orientado a objetos que procura reforçar os conceitos e boas práticas relacionadas à OO, ajudando na modelagem das classes mais importantes e centrais do sistema.
+
 
 
 **2°) Explique com suas palavras o que é e como funciona uma arquitetura baseada em microservices. explique ganhos com este modelo, desafios em sua implementação e desvantagens.**
@@ -12,6 +15,7 @@ R: =>  Eu entendo que DDD é um padrão de modelagem de software orientado a obj
 R: => Uma arquitetura baseada em Microservices é meio de desenvolver software de modo mais flexível e independente, onde que os serviços podem ser criados por diferentes tecnologias e diferentes equipes de Dev, agilizando o processo de desenvolvimento e entrega do software.
 Os desafios de se implementar essa arquitetura é como tudo isso se comuicará e como será desenvolvido, distribuindo bem as responsabilidades para a equipe, sempre verificar o que será disponibilizado para consumo externo e quem poderá acessar ou inserir daos na aplicação através dos microserviços.
 As desvantagens talvez possa ser, conhecimento da equipe na arquitetura baseada em microserviços, fazer o debug dos serviços ou latência da rede.
+
 
 
 **3°) Explique qual a diferença entre processamento sincrono e assincrono e qual o melhor cenário para utilizar um ou outro.**
