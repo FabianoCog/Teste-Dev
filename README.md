@@ -1,6 +1,6 @@
 ## Olá pessoal tudo bem?
 
-**Primeiramente eu gostaria muito de agradecer a oportunidade de participar do processo seletivo de vocês, atualmente trabalho em uma empresa de consultoria em tecnologia multinacional, mas enxergo na _MEIfácil_ um potêncial muito grande de crescimento da empresa e gostaria muito de fazer dessa história de sucesso.**
+**Primeiramente eu gostaria muito de agradecer a oportunidade de participar do processo seletivo de vocês, atualmente trabalho em uma empresa de consultoria em tecnologia multinacional, mas enxergo na _MEIfácil_ um potêncial muito grande de crescimento da empresa e gostaria muito de fazer parte dessa história de sucesso.**
 
 **Esse é o meu projeto final, infelizmente não consegui completar todo o desafio que me foi passado.
 Tentei trabalhar no teste com Nodejs, MongoDB e Express, mas em determinado momento me faltou conhecimento para prosseguir, criei rotas da API Post para inserir dados com body de requisição e resposta em Json, criei método de autenticação, coloquei criptografia no password, coloquei um hash de identificação na aplicação.
