@@ -37,3 +37,25 @@ R: => Síncrono => os dados são processados em ordem estabelecida o primeiro qu
    Sistemas com poucos chamadas são acredito que seja melhor se for síncrono pela rapidez que o sistema processa informações.
    Se for um sistemas que receba muitas requisições acredito que o melhor cenário seria usar o assíncrono, pq não limitaria o sistema em um determinado momento que tivesse muitas requisições.
    
+   
+**Para fazer build do projeto digite o comando abaixo no terminal**
+
+node src/index.js
+
+**URLs para testar requisições no Postman ou Insomnia**
+
+#localhost:3000/auth/register
+```
+{
+	"name": "",
+	"email": "",
+	"password": ""
+}
+```
+#localhost:3000/auth/authenticate
+```
+{
+	"email": "",
+	"password": ""
+}
+```
