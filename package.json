@@ -1,5 +1,5 @@
 {
-  "name": "Teste-Dev",
+  "name": "teste",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,5 +16,8 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.6.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.5"
   }
 }
